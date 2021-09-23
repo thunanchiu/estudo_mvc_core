@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Moura.BatteryWarranty", "Moura.BatteryWarranty", "{BFB553F4-8A88-40D3-B4F6-44DF63A0BA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moura.BatteryWarranty.WebSite", "Moura.BatteryWarranty.WebSite\Moura.BatteryWarranty.WebSite.csproj", "{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moura.BatteryWarranty.Business", "Moura.BatteryWarranty.Business\Moura.BatteryWarranty.Business.csproj", "{093928EA-F639-4585-B3A9-BA399F64897B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moura.BatteryWarranty.Service", "Moura.BatteryWarranty.Service\Moura.BatteryWarranty.Service.csproj", "{71F8BA77-8F77-4552-9545-CA8E7139EB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moura.BatteryWarranty.Repository", "Moura.BatteryWarranty.Repository\Moura.BatteryWarranty.Repository.csproj", "{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093928EA-F639-4585-B3A9-BA399F64897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093928EA-F639-4585-B3A9-BA399F64897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093928EA-F639-4585-B3A9-BA399F64897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093928EA-F639-4585-B3A9-BA399F64897B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F8BA77-8F77-4552-9545-CA8E7139EB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F8BA77-8F77-4552-9545-CA8E7139EB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F8BA77-8F77-4552-9545-CA8E7139EB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F8BA77-8F77-4552-9545-CA8E7139EB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{48053131-C0F8-4A7D-BE3A-DE1CAD9BB30E} = {BFB553F4-8A88-40D3-B4F6-44DF63A0BA8D}
+		{093928EA-F639-4585-B3A9-BA399F64897B} = {BFB553F4-8A88-40D3-B4F6-44DF63A0BA8D}
+		{71F8BA77-8F77-4552-9545-CA8E7139EB4B} = {BFB553F4-8A88-40D3-B4F6-44DF63A0BA8D}
+		{DF0E352E-2BFA-4CE9-847B-C2C2C6BCC5E8} = {BFB553F4-8A88-40D3-B4F6-44DF63A0BA8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AEBA4B-E0CE-437F-8D05-67BB5CDA26C4}
+	EndGlobalSection
+EndGlobal
